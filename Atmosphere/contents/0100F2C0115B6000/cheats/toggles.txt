@@ -1,0 +1,4 @@
+[Lock to Sunny Weather]
+True
+[Lock Game Time to 9 AM]
+True
